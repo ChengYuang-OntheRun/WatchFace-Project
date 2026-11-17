@@ -5,4 +5,6 @@ This project is dedicated for the Garmin watch face design.
 
 The purpose of this project is to design a watch face that includes my fav character. 
 
+The features are as follows: 
+
 That's it!
